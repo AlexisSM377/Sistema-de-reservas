@@ -6,7 +6,7 @@ import { ReservationList } from "./components/reservationList";
 
 export default function Page() {
     return (
-        <div className="container py-10 max-w-4xl mx-auto">
+        <div className="container py-10 max-w-4xl mx-auto px-2 lg:px-0">
             <Link href="/me" className="flex items-center text-base font-medium text-muted-foreground hover:text-foreground">
                 <ArrowLeft className="mr-2 h-4 w-4" />
                 Volver al Inicio

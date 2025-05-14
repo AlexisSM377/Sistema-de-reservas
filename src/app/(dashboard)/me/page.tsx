@@ -17,7 +17,7 @@ export default function MePage() {
 
 
     return (
-        <main>
+        <main className="px-2 lg:px-0">
             <Header />
             <div className="container flex items-center justify-between py-4 max-w-4xl mx-auto">
                 <div className="flex  flex-col gap-2">

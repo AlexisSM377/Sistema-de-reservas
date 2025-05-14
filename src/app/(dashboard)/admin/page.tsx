@@ -14,7 +14,7 @@ export default function AdminPage() {
     return (
 
 
-        <div className="container py-8 mx-auto max-w-7xl spcae-y-4">
+        <div className="container py-8 mx-auto max-w-7xl spcae-y-4 px-2 lg:px-0">
             <header className="flex items-center justify-between mb-4">
 
                 <div className="flex  flex-col gap-2">

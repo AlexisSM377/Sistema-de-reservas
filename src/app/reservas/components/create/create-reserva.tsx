@@ -165,7 +165,7 @@ export default function NuevaReserva() {
                             </SelectTrigger>
                             <SelectContent>
                                 {espacios.map(e => (
-                                    <SelectItem key={e.id} value={e.id}>{e.nombre}</SelectItem>
+                                    <SelectItem key={e.id} value={e.id}>{e.nombre} - {e.capacidad} asistentes</SelectItem>
                                 ))}
                             </SelectContent>
                         </Select>

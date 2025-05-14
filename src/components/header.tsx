@@ -17,9 +17,6 @@ export default function Header() {
                     <Link href="/reservas" className="text-sm font-medium">
                         Mis Reservas
                     </Link>
-                    <Link href="/espacios" className="text-sm font-medium">
-                        Espacios
-                    </Link>
                 </nav>
                 <div className="flex items-center gap-4">
 

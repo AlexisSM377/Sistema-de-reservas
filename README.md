@@ -3,7 +3,7 @@
 ---
 
 
-```md
+
 # 💻 Frontend - Sistema de Reservas
 
 Este es el frontend del sistema de reservas, construido con **Next.js**, **TailwindCSS**, y gestionado a través de roles de usuario (Empleado y Administrador).
